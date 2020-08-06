@@ -1,23 +1,23 @@
 {
-  "name": "testing",
+  "name": "Front-End-Capstone",
   "version": "1.0.0",
-  "description": "- Install react: `npm install react react-dom`",
-  "main": "index.js",
+  "description": "",
+  "main": "babel.config.js",
   "scripts": {
-    "build": "webpack -d -w",
+    "build": "webpack -d",
     "test": "jest --coverage"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/I-O-Silver/testing.git"
+    "url": "git+https://github.com/I-O-Silver/Front-End-Capstone.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/I-O-Silver/testing/issues"
+    "url": "https://github.com/I-O-Silver/Front-End-Capstone/issues"
   },
-  "homepage": "https://github.com/I-O-Silver/testing#readme",
+  "homepage": "https://github.com/I-O-Silver/Front-End-Capstone#readme",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
