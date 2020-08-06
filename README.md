@@ -63,7 +63,9 @@ module.exports = {
 
 ## Creating your tests
 
-- First, add a script to your `package.json` file which will run jest. It should look like: `"test": "jest"`
+- First, add a script to your `package.json` file which will run jest. It should look like: `"test": "jest --coverage"`
+
+Adding the `--coverage` flag will tell jest to collect and report coverage information.
 
 - Next, create a folder called `test`.
 
