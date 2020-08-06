@@ -73,6 +73,6 @@ These files will hold your test code, and jest will automatically find these and
 
 ## Additional resources:
 
-- The jest documentation can be found at: https://jestjs.io/docs/en/getting-started
+The jest documentation can be found at: https://jestjs.io/docs/en/getting-started
 
-- The enzyme documentation can be found at: https://enzymejs.github.io/enzyme/docs/api/
+The enzyme documentation can be found at: https://enzymejs.github.io/enzyme/docs/api/
