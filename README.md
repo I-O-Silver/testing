@@ -43,6 +43,8 @@ module.exports = {
 };
 ```
 
+This file is for building your client-side code only, and won't be used by jest.
+
 - Create a file called `babel.config.js`, and add the following code:
 
 ```
@@ -60,6 +62,8 @@ module.exports = {
   ],
 };
 ```
+
+This file is needed for jest to work correctly.
 
 ## Creating a component to test
 
