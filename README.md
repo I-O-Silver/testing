@@ -2,15 +2,15 @@
 
 ## Installing dependencies
 
-- Install react: `npm i react react-dom`
+- Install react: `npm install react react-dom`
 
 - Install babel: `npm install --save-dev @babel/core @babel/cli @babel/preset-env @babel/preset-react`
 
-- Install webpack: `npm i --save-dev webpack webpack-cli babel-loader`
+- Install webpack: `npm install --save-dev webpack webpack-cli babel-loader`
 
 - Install jest as a dev dependency: `npm install --save-dev jest babel-jest babel-preset-es2015 babel-preset-react react-test-renderer`
 
-- Install enzyme as a dev dependency: `npm i --save-dev enzyme enzyme-adapter-react-16`
+- Install enzyme as a dev dependency: `npm install --save-dev enzyme enzyme-adapter-react-16`
 
 ## Setting up webpack and babel
 
