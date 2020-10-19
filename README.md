@@ -1,12 +1,12 @@
 # Setting up an environment for testing
 
+**This guide uses webpack v4.44.1 and webpack-cli v3.3.12**
+
 ## Installing dependencies
 
 - Install react: `npm install react react-dom`
 
-- Install babel: `npm install --save-dev @babel/core @babel/cli @babel/preset-env @babel/preset-react`
-
-- Install webpack: `npm install --save-dev webpack webpack-cli babel-loader`
+- Install webpack and babel presets: `npm install --save-dev webpack@4.44.1 webpack-cli@3.3.12 babel-loader @babel/core @babel/cli @babel/preset-env @babel/preset-react`
 
 - Install jest as a dev dependency: `npm install --save-dev jest babel-jest babel-preset-es2015 babel-preset-react react-test-renderer`
 
